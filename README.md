@@ -12,3 +12,4 @@ Features
 5	Implemented driver for alphanumeric display .
 
 This work was done as part of teaching materials for the ECEN 449 class offered at Texas A&M University/Qatar
+Written by Ali Aljaani/Texas A&M University/Qatar
