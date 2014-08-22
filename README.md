@@ -12,3 +12,5 @@ Features
 This work was done as part of teaching materials for the ECEN 449 class offered at Texas A&M University/Qatar.
 
 Written by Ali Aljaani/Texas A&M University at Qatar.
+
+To download, click the Download ZIP button in the top right corner.
