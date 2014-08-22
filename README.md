@@ -4,7 +4,7 @@ The ZedboardOLED IP core provides a user friendly interface to the 128x32 organi
 
 Features
 1 Plug and play using Vivado design suite.
-2 Hierarchical open-source design, can be easily altered to fit other systems’ requirements.
+2 Hierarchical open-source design, it can be easily altered to fit other systems’ requirements.
 3 Internal display buffer.
 4 English characters bit maps are cached inside the controller.
 5 Implemented driver for alphanumeric display .
